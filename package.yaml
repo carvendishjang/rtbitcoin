@@ -1,0 +1,25 @@
+name:                rtbitcoin
+version:             0.1.0.0
+#synopsis:
+#description:
+homepage:            https://github.com/githubuser/rtbitcoin#readme
+license:             BSD3
+author:              Author name here
+maintainer:          example@example.com
+copyright:           2020 Author name here
+category:            Web
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+  - lens               # To easily work with JSON data using lenses
+  - lens-aeson         # Same as above
+  - bytestring         # Different string representations. Needed to work with http requests and JSON
+  - text               # Same as above
+  - http-conduit       # HTTP client
+
+executables:
+  rtbitcoin:
+    source-dirs:      src
+    main:             Main.hs

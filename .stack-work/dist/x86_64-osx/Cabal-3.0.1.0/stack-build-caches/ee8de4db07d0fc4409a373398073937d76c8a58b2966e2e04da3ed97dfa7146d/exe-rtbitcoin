@@ -1,0 +1,16 @@
+/Users/zhangkai/rtbitcoin/package.yaml:
+  hash: 05d2b220aa2d6d3643cbd598b2693ce5da38ee9ccbe860d903c0ad097c056f6a
+  size: 764
+  modtime: 1592927012
+/Users/zhangkai/rtbitcoin/README.md:
+  hash: 93dab9c0aabe4561e7976e0e28076677747954f6d39b719582e77f664e0cad2e
+  size: 12
+  modtime: 1592926780
+/Users/zhangkai/rtbitcoin/src/Main.hs:
+  hash: 0f6413c3c2fda0948a8c1fa2c3fda8681fc5ec2ad07804a0422461235b602808
+  size: 1388
+  modtime: 1592928141
+/Users/zhangkai/rtbitcoin/rtbitcoin.cabal:
+  hash: f3d8d4b32243f37b8442a850e634d257f6d98380a4a219614b8b2c33b2dca4e1
+  size: 811
+  modtime: 1592927018
